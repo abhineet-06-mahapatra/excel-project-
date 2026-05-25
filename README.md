@@ -26,7 +26,8 @@ Outlet Establishment
 Outlet Size
 Outlet Location
 Item Type
-🔍 Identified key insights such as:
+
+**🔍 Identified key insights such as:**
 
 *Tier 3 outlets contributed the highest sales.
 Regular fat products generated more sales than low-fat products.
