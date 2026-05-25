@@ -12,7 +12,7 @@ Used **Pivot Tables,Pivot Charts, Slicers, KPI Cards, and Conditional Formatting
 
 *⭐ Average Rating: 4.0
 
-*📉 Created visual reports for:
+**📉 Created visual reports for:**
 
 *Fat Content Analysis
 Fat By Outlet
@@ -21,8 +21,7 @@ Outlet Size Distribution
 Outlet Location Analysis
 Outlet Type Comparison
 Outlet Establishment
-🎛️ Implemented interactive slicers for filtering data by:
-
+**🎛️ Implemented interactive slicers for filtering data by:**
 Outlet Size
 Outlet Location
 Item Type
